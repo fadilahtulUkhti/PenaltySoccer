@@ -1,0 +1,7 @@
+Kelompok A
+Objek: Pemain1, pemain2, Bola, gawang, menentukanKlub, menendang, menangkap, menghitungSkor, endgame, ronde, posisi
+-Class: Penendang
+-Class: Penangkap
+-Class: Player
+Method: menendang, menangkap, menentukanKlub, menghitungSkor
+Variabel: pemain1, pemain2, Bola, Endgame, skor
